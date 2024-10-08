@@ -1,3 +1,8 @@
+<center>
+		<img src="./bg.png" width="100%" />
+		</img>
+</center>
+
 <!--   my-ticker -->   
 <center>
 
