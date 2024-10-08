@@ -51,7 +51,7 @@
 **📫 How to Reach me:**
 <p align="center">
 <a href="mailto:tatsukimengchen@163.com" target="blank"><img align="center" src="https://mail.163.com/favicon.ico" alt="163Mail" height="30" width="30" /></a>
-<a href="https://wpa.qq.com/msgrd?v=3&uin=3224815186&site=qq&menu=yes" target="blank"><img align="center" src="./src/qq.ico" alt="TencentQQ" height="30" width="30" /></a>
+<a href="https://wpa.qq.com/msgrd?v=3&uin=3224815186&site=qq&menu=yes" target="blank"><img align="center" src="https://wiki.connect.qq.com/wp-content/uploads/2013/10/03_qq_symbol-1-250x300.png" alt="TencentQQ" height="30" width="25" /></a>
 </p>
 
 
